@@ -22,9 +22,9 @@ from openpyxl.styles import colors
 from openpyxl.styles import Font,Color
 
 broker = 'brokername'                                                                     #broker name
-topic = "House/UR/UTMS/70B3D52530B6"#on which topic we will subscrobe
+topic = "House/bedroom/light"  #on which topic we will subscrobe
 
-#ft=Font(color="")
+
 
 def check(i,ws3,k):
     ws3.cell(row=1,column=1,value="S.NO")

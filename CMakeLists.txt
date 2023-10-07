@@ -1,4 +1,4 @@
-#
+# https://github.com/mysql/mysql-connector-cpp/blob/trunk/testapp/CMakeLists.txt
 # Cmake list for mysql
 
 cmake_minimum_required(VERSION 3.5)
